@@ -4,6 +4,11 @@
   "author": {
     "name": "Lucas"
   },
+    "license": "MIT",
+    "bugs": {
+    "url": "https://github.com/sopheos/orbjs_openinghour/issues"
+  },
+  "homepage": "https://github.com/sopheos/orbjs_openinghour#readme",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
   "types": "./dist/types/index.d.ts",
